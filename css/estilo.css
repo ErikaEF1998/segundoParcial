@@ -1,0 +1,124 @@
+#principal{
+    width: 900px;
+    height: auto; overflow: hidden;
+    margin: auto;
+    
+}
+
+body{
+    background-color: white;
+}
+
+.menu{
+    width: 900px;
+    height: 100px;
+    background-color: teal;
+}
+
+.info{
+    width: 900px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.texto{
+    padding: 40px;
+}
+
+.trabajos{
+    margin-top: 30px;
+}
+
+.texto1{
+    padding: 10px;
+}
+
+#opciones{
+    width: 900 px;
+    background-color: darkgray;
+    height: auto; overflow: hidden;    
+}
+
+.proyecto{
+    margin-left: 40px;
+}
+
+.primero{
+    width: 250px;
+    height: 410px;
+    border: 1px solid white;
+    float: left;
+    margin-left: 40px;
+    margin-right: 12px;
+    background-color: white;
+    
+}
+.segundo{
+    margin-left: 15px;
+    margin-right: 12px;
+}
+
+.primer{
+    width: 180px;
+    height: 210px;
+    border: 1px solid white;
+    float: left;
+    margin-left: 40px;
+    margin-right: 12px;
+    background-color: white;
+    
+}
+.segun{
+    margin-left: 15px;
+    margin-right: 12px;
+}
+
+.mas{
+    text-decoration: none;
+    padding: 10px 20px 10px 170px;
+}
+
+#informacion{
+    width: 900px;
+    height: auto; overflow: hidden;
+}
+
+
+
+#text{
+  width: 350px;
+  height: 180px;
+  border: 1px solid white;
+  float: left;
+  margin-left: 30px;
+  margin-right: 20px;
+  background-color: white;
+}
+
+#trabajo2{
+    width: 400px;
+    height: 180px;
+    border: 1px solid white; 
+    float: right; 
+    margin-left: 30px;
+    margin-right: 20px;
+    background-color: white;
+}
+
+#boton{
+	border:none;
+	width: 200px;
+	color: white;
+	font-size: 20px;
+	background: blue;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+    cursor: pointer;
+    margin-left: 700px;
+    
+}
+
+.bot{
+    padding: 40px;
+}
